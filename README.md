@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @code100percent
+- 👀 I’m interested in exploring and creating the new world of technology 
+- 🌱 I’m currently learning what is useful to me 
+- 💞️ I’m looking to collaborate on various advance projects
+- 📫 How to reach me - by email (sehajthewarrior@gmail.com)
