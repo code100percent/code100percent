@@ -1,5 +1,6 @@
-- 👋 Hi, I’m @code100percent
-- 👀 I’m interested in exploring and creating the new world of technology 
-- 🌱 I’m currently learning what is useful to me 
-- 💞️ I’m looking to collaborate on various advance projects
-- 📫 How to reach me - by email (sehajthewarrior@gmail.com)
+<h1 align="center">I'm Sehaj</h1>
+<img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&lines=AI+And+Robotics+Enthusiast;Full+Stack+Developer;" />
+
+### 🛠  Tech Stack
+<img src="https://skillicons.dev/icons?i=python,c,cpp,ros,django,react,nextjs,linux,git" />
+
